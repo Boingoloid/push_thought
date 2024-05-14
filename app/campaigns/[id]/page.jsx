@@ -1,11 +1,11 @@
 'use client'
 import React from 'react'
 
-const PropertyPage = () => {
+const CampaignPage = () => {
   return (
     <div>
-      PropertyPage
+      CampaignPage
     </div>
   )
 }
-export default PropertyPage
+export default CampaignPage
